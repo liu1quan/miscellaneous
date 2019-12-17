@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ff23a6c6-e581-463f-a512-ad1822553e1f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../miscellaneous/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../miscellaneous/date/src/main/java/com/github/date/Date.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../miscellaneous/date/src/main/java/com/github/date/DateApplication.java" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../miscellaneous/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../miscellaneous/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/../miscellaneous/out/" />
@@ -30,6 +27,11 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../miscellaneous" />
+  </component>
+  <component name="GithubProjectSettings">
+    <option name="CREATE_PULL_REQUEST_DEFAULT_BRANCH" value="master" />
+    <option name="CREATE_PULL_REQUEST_DEFAULT_REPO_USER" value="liu1quan" />
+    <option name="CREATE_PULL_REQUEST_DEFAULT_REPO_NAME" value="miscellaneous" />
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
@@ -84,24 +86,6 @@
             <path>
               <item name="miscellaneous" type="b2602c69:ProjectViewProjectNode" />
               <item name="miscellaneous" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="miscellaneous" type="b2602c69:ProjectViewProjectNode" />
-              <item name="miscellaneous" type="462c0819:PsiDirectoryNode" />
-              <item name="date" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="miscellaneous" type="b2602c69:ProjectViewProjectNode" />
-              <item name="miscellaneous" type="462c0819:PsiDirectoryNode" />
-              <item name="date" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="miscellaneous" type="b2602c69:ProjectViewProjectNode" />
-              <item name="miscellaneous" type="462c0819:PsiDirectoryNode" />
-              <item name="date" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -246,12 +230,20 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1576567348891</updated>
-      <workItem from="1576567351849" duration="725000" />
+      <workItem from="1576567351849" duration="904000" />
     </task>
+    <task id="LOCAL-00001" summary="修改启动类名称">
+      <created>1576568093748</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1576568093748</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="725000" />
+    <option name="totallyTimeSpent" value="904000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -291,6 +283,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="修改启动类名称" />
+    <option name="LAST_COMMIT_MESSAGE" value="修改启动类名称" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
